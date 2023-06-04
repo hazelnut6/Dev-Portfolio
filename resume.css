@@ -1,0 +1,113 @@
+*{
+    font-size: 16px;
+}
+body {
+    background-color: #004643;
+    text-decoration: none;
+}
+
+
+/* NAVBAR */
+/* .navbar-brand {
+    color: #fffffe;
+}
+.navbar-brand:hover {
+  color: #fffffe;
+}
+.navbar-toggler {
+    background-color: #f9bc60;
+}
+.navbar-toggler:hover {
+    background-color: #f9bc60;
+}
+.offcanvas-body {
+    background-color: #004643;
+}
+.nav-link {
+    color: #e8e4e6;
+}
+
+.offcanvas-header {
+    background-color: #f9bc60;
+}
+.nav-link:hover {
+    color: #e8e4e6;
+} */
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.resume-header{
+    color: #e8e4e6;
+}
+.back-btn{
+    border-style: none;
+    font-size: 18px;
+    margin-left: 17px;
+    margin-top: 15px;
+    background-color: #f9bc60;
+    width: 80px;
+    height: 35px;
+    border-radius: 5px;
+    color: black;
+}
+.back-btn:hover{
+    color: #e8e4e6;
+    background-color: #004643;
+    border: 2px solid #f9bc60;
+}
+.top {
+  padding-top: 100px;
+}
+
+
+
+.left, .work {
+    background-color: #abd1c6;
+    color: #001e1d;
+}
+.left {
+    padding: 0%;
+}
+
+.skill {
+    padding-right: 5px;
+}
+.skill-header {
+    color: black;
+    font-size: 25px;
+    font-weight: 420;
+    text-align: left;
+}
+.progress {
+    /* background-color: #f9bc60; */
+    width: 300px;
+}
+.aboutP {
+    color: #e8e4e6;
+    text-indent: 9%;
+}
+.contactP {
+    padding-left: 15px;
+}
+.skill-header {
+    padding-left: 10px;
+}
+.image {
+    display: flex;
+    justify-content: center;
+}
+.head {
+    color: black;
+    text-align: center;
+    background-color: #abd1c6;
+}
+.column {
+    padding-top: 2px;
+}
+.school{
+    padding: 20px;
+}
