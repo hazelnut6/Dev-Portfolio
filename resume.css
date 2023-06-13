@@ -111,3 +111,10 @@ header{
 .school{
     padding: 20px;
 }
+.link{
+    color: #004643;
+    font-weight: bold;
+}
+.link:hover{
+    color: #00ac8f;
+}
